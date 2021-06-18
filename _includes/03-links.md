@@ -1,1 +1,1 @@
-[LinkedIn] https://www.linkedin.com/in/diannescott37/
+[LinkedIn] (https://www.linkedin.com/in/diannescott37/)
